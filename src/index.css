@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+:root{
+  --primary: #334257;
+  --secondary: #4e4e4e;
+  --error: #ff4a4a;
+}
+
+/* base styles & title */
+body{
+  /* font-family: "Noto Serif"; */
+  color: var(--secondary);
+  background-color: #EEEEEE;
+}
+.App{
+  max-width: 960px;
+  margin: 0 auto;
+}
+.title h1{
+  color: var(--primary);
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  font-weight: normal;
+}
+.title h2, .title p{
+  text-align: center;
+  /* font-family: 'Courier New', Courier, monospace; */
+}
+.title h2{
+  margin-top: 60px;
+  font-size: 2.6rem;
+}
+
+
+.abt {
+  text-align: center;
+  margin-top: 15%;
+  
+}
+ 
+.Home{
+  text-align: center;
+  margin-top: 10%;
+}
+
+
+.container-inspo p{
+  text-align: center;
+  margin-top:10% ;
+  margin-bottom: 5%;
+  font-size: 1.5rem;
+}
+
+.card {
+width: 25rem; 
+}
+
+.card-img-top{
+  height: 550px;
+  width: 400px;
+}
+
+.card-body{
+  width: 20rem;
+}
+
+
+
+
+
+/* .input{
+  
+  margin-top: 60px;
+  align-items: center;
+
+}
+ */
+
+ /* .container{
+  display: block;
+  align-items: center;
+ } */
+
+
+
+/* .input{
+  display: 'flex';
+  justifyContent: 'flex-start';
+  justify conen
+  alignItems: 'center',
+  flexDirection: 'row',
+  width: '20vw',
+  padding: 5,
+  borderStyle: 'solid',
+  borderWidth: 1,
+  borderColor: 'green',
+  borderRadius: 5,
+  color: 'green',
+} */
+
+.progress-bar{
+  height: 5px;
+  background: var(--primary);
+  margin-top: 20px;
+
+}
+
+
+/* upload form styles */
+
+
+/* progress bar styles */
+
+
+/* image grid styles */
+
+
+/* modal styles */
