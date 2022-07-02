@@ -1,3 +1,3 @@
 # Frontend-final-react
 
-link : https://resplendent-griffin-1cbb4d.netlify.app
+link : https://flourishing-sundae-6c6f9c.netlify.app
